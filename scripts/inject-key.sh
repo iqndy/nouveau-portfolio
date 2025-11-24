@@ -8,7 +8,7 @@ set -euo pipefail
 
 if [ -z "${API_KEY:-}" ]; then
   echo "Error: API_KEY environment variable is not set."
-  echo "Set it with: export API_KEY=your_key_here"
+  echo "Set it with: export API_KEY=AIzaSyDcpzNR5Q08aL4fiaQtAaQ8KHPZkp7EFxg"
   exit 1
 fi
 
